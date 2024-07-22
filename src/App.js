@@ -54,14 +54,14 @@ function App() {
             </a>
             <a
               target="_blank"
-              href="https://www.tiktok.com/@aiken.book?_t=8neBG1Uxi80&_r=1"
+              href="https://www.tokopedia.com/aikenbook"
               rel="noreferrer"
               className="flex items-center gap-4 py-[23px] px-[20px] rounded-full bg-white shadow-md shadow-gray-400"
             >
               <i className="bx bx-store-alt text-black text-[24px]"></i>
               <div className="text-left">
                 <h1 className="font-bold text-[18px] text-black">
-                  TikTokshop Marketplace
+                  Tokopedia Marketplace
                 </h1>
                 <p className="sm:block hidden font-medium text-gray-500 text-[16px]">
                   available in market
